@@ -81,7 +81,7 @@
 <a><img alt="Sneha Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nayaksneha07482&theme=react-dark&hide_border=true" /></a>
 
 <br/>
-## ❤️ Let's get connected:
+<h2>## ❤️ Let's get connected:</h2>
  
 <p>
   <br/>
